@@ -327,9 +327,12 @@ const posts = (await getCollection('blog')).sort(
 		color: var(--sk-gray-400);
 	}
 
-	@media (max-width: 768px) {
+	@media (max-width: 640px) {
+		.hero-section {
+			overflow-x: hidden;
+		}
 		.hero-inner {
-			grid-template-columns: 1fr;
+			grid-template-columns: 1fr !important;
 			text-align: center;
 			gap: 2rem;
 			padding: 0 1rem;
@@ -340,21 +343,23 @@ const posts = (await getCollection('blog')).sort(
 			width: 100%;
 		}
 		.hero-text h1 {
-			font-size: 2rem;
+			font-size: 1.75rem;
+			word-wrap: break-word;
 		}
 		.hero-tagline {
 			margin: 0 auto 2rem;
 		}
 		.hero-actions {
 			justify-content: center;
+			flex-wrap: wrap;
 		}
 		.hero-image-wrapper {
 			order: -1;
 			margin: 0 auto;
 		}
 		.hero-avatar {
-			width: 180px;
-			height: 180px;
+			width: 160px;
+			height: 160px;
 		}
 		.posts-grid {
 			grid-template-columns: 1fr;
