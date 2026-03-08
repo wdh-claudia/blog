@@ -178,27 +178,11 @@ const posts = (await getCollection('blog')).sort(
 	}
 
 	@media (max-width: 768px) {
-		.page-header {
-			padding: 1rem;
-			margin-top: 0;
-		}
-		.page-header h1 {
-			font-size: 1.25rem;
-			margin-bottom: 0.25rem;
-		}
-		.page-header p {
-			font-size: 0.8rem;
-		}
-		main {
-			padding: 1rem;
-			margin-top: 0;
-		}
 		.blog-grid {
 			grid-template-columns: 1fr;
-			gap: 1rem;
 		}
 		.post-featured .post-title {
-			font-size: 1.1rem;
+			font-size: 1.25rem;
 		}
 	}
 </style>
