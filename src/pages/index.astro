@@ -16,6 +16,30 @@ const posts = (await getCollection('blog')).sort(
 <html lang="en">
 	<head>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+		<!-- Force mobile hero layout -->
+		<style is:global>
+			@media (max-width: 768px) {
+				.hero-section .hero-inner {
+					grid-template-columns: 1fr !important;
+					display: flex !important;
+					flex-direction: column-reverse !important;
+					text-align: center !important;
+					padding: 1rem !important;
+				}
+				.hero-section .hero-text {
+					width: 100% !important;
+					max-width: 100% !important;
+				}
+				.hero-section .hero-image-wrapper {
+					width: 100% !important;
+					margin-bottom: 1rem !important;
+				}
+				.hero-section .hero-avatar {
+					width: 120px !important;
+					height: 120px !important;
+				}
+			}
+		</style>
 	</head>
 	<body>
 		<Header />
