@@ -17,16 +17,6 @@ const posts = (await getCollection('blog')).sort(
 <html lang="en">
 	<head>
 		<BaseHead title={`Blog | ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
-		<style is:global>
-			@media (max-width: 768px) {
-				.header-spacer {
-					height: 3rem !important;
-				}
-				header nav {
-					height: 3rem !important;
-				}
-			}
-		</style>
 	</head>
 	<body>
 		<Header />
