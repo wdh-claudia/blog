@@ -332,6 +332,12 @@ const posts = (await getCollection('blog')).sort(
 			grid-template-columns: 1fr;
 			text-align: center;
 			gap: 2rem;
+			padding: 0 1rem;
+		}
+		.hero-text {
+			order: 1;
+			max-width: 100%;
+			width: 100%;
 		}
 		.hero-text h1 {
 			font-size: 2rem;
@@ -349,9 +355,6 @@ const posts = (await getCollection('blog')).sort(
 		.hero-avatar {
 			width: 180px;
 			height: 180px;
-		}
-		.hero-text {
-			order: 1;
 		}
 		.posts-grid {
 			grid-template-columns: 1fr;
