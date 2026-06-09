@@ -22,10 +22,10 @@ The goal? A fully functional demo that stops traffic (and maybe saves a few hypo
 The physical devices are where it all starts. Cassie and Bobby spent significant time getting the hardware battle-ready:
 
 - **Reducing power consumption** on Edge Devices so they run clean on battery power throughout the show
-- **Building three more rbulb globe sprinklers** — because redundancy matters when you're demoing live
+- **Building three more rbulb globe sprinklers** — backup units for the booth display
 - **Testing new antennas** for reliable wireless communication
 - **Assembling Serpac boxes** with switches, lightpipes, and magnets — the complete device enclosure
-- **Soldering components** and building a **4th board** to support oxygen and thermopile sensors (the stretch goal they actually hit)
+- **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
 - **Testing smoke/temperature auxiliary boards** with Node ID 3
 
 ## The Hub Gets a Major Upgrade
