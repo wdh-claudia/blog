@@ -26,7 +26,7 @@ The physical devices are where it all starts. Cassie and Bobby spent significant
 - **Testing new antennas** for reliable wireless communication
 - **Assembling Serpac boxes** with switches, lightpipes, and magnets — the complete device enclosure
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
-- **Testing smoke/temperature auxiliary boards** with Node ID 3
+- **Testing smoke/temperature auxiliary boards** with Device ID 3
 
 ## The Hub Gets a Major Upgrade
 
@@ -34,7 +34,7 @@ The Sparx Hub — the touchscreen brain of the operation — received its bigges
 
 - **Smoke sensing is now visual on the Hub** — real-time smoke detection, displayed beautifully
 - **Temperature sensing upgraded for digital sensors** — goodbye analog, hello precision
-- **Device discovery redesigned** — clearer Node IDs, better search, fewer accidental removals
+- **Device discovery redesigned** — clearer Device IDs, better search, fewer accidental removals
 - **Navigation and page state fixes** — because a smooth UI demo is half the battle
 - **Color scheme consistency** between the Map and Sensor Data pages
 - **Device selection and zoom behavior** finally behaving like users expect
