@@ -26,7 +26,7 @@ The physical devices are where it all starts. Cassie and Bobby spent significant
 - **Testing new antennas** for reliable wireless communication
 - **Assembling electronics enclosures** with switches, lightpipes, and mounting pads with mounting straps so we can connect these boxes to pipes
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
-- **Testing smoke/temperature auxiliary boards**. After PCB assembly we test all of our designs to make sure they work as anticipated. We go through a test plan and test firmware for this setting breakpoints and taking hardware measurements with a multimeter as we go.
+- **Testing smoke/temperature auxiliary boards**. After PCB assembly, every board gets run through a structured test plan with custom firmware, breakpoints, and multimeter measurements to verify everything works as anticipated.
 
 ## The Hub Gets a Major Upgrade
 
