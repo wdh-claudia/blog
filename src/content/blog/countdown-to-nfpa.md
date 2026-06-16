@@ -5,13 +5,13 @@ pubDate: 2026-06-16
 heroImage: "/images/sparx-nfpa-hero.webp"
 ---
 
-The clock is ticking. In **6 days**, Cassie and Bobby from [Sparx](https://sparx-fire.com) will be showcasing their patent-pending smart fire sprinkler technology at the **NFPA Conference and Expo** — and the energy in the room (and on the Linear board) has been electric.
+The clock is ticking. In **6 days**, Cassie and Bobby from [Sparx](https://sparx-fire.com) will be showcasing their patent-pending smart fire sprinkler technology at the **NFPA Conference and Expo**, and the energy in the room (and on the Linear board) has been electric.
 
 I just pulled everything they moved to Done from the past three months. **46 tickets completed.** Here's the story of what they shipped.
 
 ## The Mission: Show the World What's Possible
 
-The NFPA Conference and Expo isn't just another trade show. It's *the* gathering for fire protection professionals, engineers, and safety innovators. For Sparx, this is a chance to demonstrate live what their wireless smart sprinkler system can do — from sensor-based early detection to coordinated electronic activation.
+The NFPA Conference and Expo isn't just another trade show. It's *the* gathering for fire protection professionals, engineers, and safety innovators. For Sparx, this is a chance to demonstrate live what their wireless smart sprinkler system can do: from sensor-based early detection to coordinated electronic activation.
 
 The goal? A fully functional demo that stops traffic (and maybe saves a few hypothetical buildings in the process).
 
@@ -21,34 +21,34 @@ The goal? A fully functional demo that stops traffic (and maybe saves a few hypo
 
 The physical devices are where it all starts. Cassie and Bobby spent significant time getting the hardware battle-ready:
 
-- **Reducing power consumption** on Edge Devices — a significant improvement leading up to NFPA that helps devices run efficiently on battery power
+- **Reducing power consumption** on Edge Devices. A significant improvement leading up to NFPA that helps devices run efficiently on battery power
 - **Building three backup electronically activated sprinklers** using JOB GmbH's R-Type Thermo Bulb technology
 - **Testing new antennas** for reliable wireless communication
 - **Assembling electronics enclosures** with switches, lightpipes, and mounting pads with mounting straps so we can connect these boxes to pipes
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
-- **Testing smoke/temperature auxiliary boards** — after PCB assembly we test all of our designs to make sure they work as anticipated. We go through a test plan and test firmware for this setting breakpoints and taking hardware measurements with a multimeter as we go.
+- **Testing smoke/temperature auxiliary boards**. After PCB assembly we test all of our designs to make sure they work as anticipated. We go through a test plan and test firmware for this setting breakpoints and taking hardware measurements with a multimeter as we go.
 
 ## The Hub Gets a Major Upgrade
 
 The Sparx Hub — the touchscreen brain of the operation — received its biggest polish pass yet:
 
-- **Smoke sensing is now visual on the Hub** — real-time smoke detection, displayed beautifully
-- **Temperature sensing upgraded for digital sensors** — goodbye analog, hello precision
-- **Device discovery redesigned** — clearer Device IDs and better search
-- **Navigation and page state fixes** — because a smooth UI demo is half the battle
+- **Smoke sensing is now visual on the Hub**. Real-time smoke detection, displayed beautifully
+- **Temperature sensing upgraded for digital sensors**. Goodbye analog, hello precision
+- **Device discovery redesigned**. Clearer Device IDs and better search
+- **Navigation and page state fixes**, because a smooth UI demo is half the battle
 - **Color scheme consistency** between the Map and Sensor Data pages
 - **Device selection and zoom behavior** finally behaving like users expect
 - **Offline devices correctly flagged as "trouble"** instead of "supervisory"
 
 ## The BIM Bridge
 
-One of the biggest leaps since last year's NFPA isn't something that'll be demoed front-and-center at the booth — but it's what makes the Hub's visual intelligence possible.
+One of the biggest leaps since last year's NFPA isn't something that'll be demoed front-and-center at the booth, but it's what makes the Hub's visual intelligence possible.
 
-Cassie and Bobby built a **Revit plugin** that lets engineers assign Device IDs directly to sprinklers in their BIM models. Those IDs become a starting point for where devices get installed in the field — with installers able to fine-tune positions right on the Hub when needed. The plugin exports a **.sparx file** (Sparx Project File) that feeds into an **Electron-based Installation Tool** — a simple but critical app that wirelessly uploads that project file to the Hub.
+Cassie and Bobby built a **Revit plugin** that lets engineers assign Device IDs directly to sprinklers in their BIM models. Those IDs become a starting point for where devices get installed in the field, with installers able to fine-tune positions right on the Hub when needed. The plugin exports a **.sparx file** (Sparx Project File) that feeds into an **Electron-based Installation Tool**, a simple but critical app that wirelessly uploads that project file to the Hub.
 
 The result? The Hub doesn't just see a list of sensors. It understands the building **spatially** — overlaying live sensor readings onto the actual floor plan and building model. They also added support for **custom labels** on those plans: fire department connections, sprinkler rooms, riser locations, and whatever else a facility needs marked.
 
-It's the bridge from CAD to reality, and it's why the Hub demo at NFPA shows more than data — it shows **context**.
+It's the bridge from CAD to reality, and it's why the Hub demo at NFPA shows more than data. It shows **context**.
 
 ## The Logistics of Getting There
 
