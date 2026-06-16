@@ -24,7 +24,7 @@ The physical devices are where it all starts. Cassie and Bobby spent significant
 - **Reducing power consumption** on Edge Devices. A significant improvement leading up to NFPA that helps devices run efficiently on battery power
 - **Building electronically activated sprinklers** using JOB GmbH's R-Type Thermo Bulb technology
 - **Testing new antennas** for reliable wireless communication
-- **Assembling electronics enclosures** with switches, lightpipes, and mounting pads with mounting straps so we can connect these boxes to pipes
+- **Assembling electronics enclosures** with switches, lightpipes, mounting pads with mounting straps, and battery clips
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
 - **Testing smoke/temperature auxiliary boards**. After PCB assembly, every board gets run through a structured test plan with custom firmware, breakpoints, and multimeter measurements to verify everything works as anticipated.
 
