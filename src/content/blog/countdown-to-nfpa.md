@@ -1,11 +1,11 @@
 ---
 title: "Countdown to NFPA Conference and Expo: What Cassie and Bobby Have Shipped"
-description: "A behind-the-scenes look at everything Cassie and Bobby completed preparing Sparx's smart fire sprinkler technology for the NFPA Conference and Expo on June 20th, 2026."
+description: "A behind-the-scenes look at everything Cassie and Bobby completed preparing Sparx's smart fire sprinkler technology for the NFPA Conference and Expo starting June 22nd, 2026."
 pubDate: 2026-06-09
 heroImage: "/images/sparx-nfpa-hero.webp"
 ---
 
-The clock is ticking. In **11 days**, Cassie and Bobby from [Sparx](https://sparx-fire.com) will be showcasing their patent-pending smart fire sprinkler technology at the **NFPA Conference and Expo** — and the energy in the room (and on the Linear board) has been electric.
+The clock is ticking. In less than two weeks, Cassie and Bobby from [Sparx](https://sparx-fire.com) will be showcasing their patent-pending smart fire sprinkler technology at the **NFPA Conference and Expo** — and the energy in the room (and on the Linear board) has been electric.
 
 I just pulled everything they moved to Done from the past three months. **46 tickets completed.** Here's the story of what they shipped.
 
@@ -53,14 +53,14 @@ Hardware and software are only half the battle. Getting *to* NFPA requires its o
 ## The Numbers
 
 - **46 issues completed** in the past 3 months
-- **15 issues** tagged to the "NFPA June 20th Prep" project
+- **15 issues** tagged to the "NFPA June 22nd Prep" project
 - **5 issues** for the Installation Tool + Revit integration
 - **26 UI/UX improvements** on the Hub — many in the past week alone
 - **2 major refactors**: migrating the service workspace to TypeScript and remodeling devices as containers of sensors
 
 ## What's Left
 
-With 11 days to go, the team is in the final stretch. The devices are built, the Hub is polished, the poster is printed, and the booth gear is en route. Now it's about **comprehensive end-to-end testing** — making sure every sensor reports correctly, every sprinkler responds on cue, and every edge case has been handled.
+With the expo just days away, the team is in the final stretch. The devices are built, the Hub is polished, the poster is printed, and the booth gear is en route. Now it's about **comprehensive end-to-end testing** — making sure every sensor reports correctly, every sprinkler responds on cue, and every edge case has been handled.
 
 Because when you're demoing fire safety technology at the NFPA Conference and Expo — with 8,600 attendees from 88 countries, 420+ exhibitors, and 130+ education sessions — "works on my machine" isn't quite good enough.
 
