@@ -11,7 +11,7 @@ I just pulled everything they moved to Done from the past three months. **46 tic
 
 ## The Mission: Show the World What's Possible
 
-The NFPA Conference and Expo isn't just another trade show. It's *the* gathering for fire protection professionals, engineers, and safety innovators. For Sparx, this is a chance to demonstrate live what their wireless smart sprinkler system can do: from sensor-based early detection to coordinated electronic activation.
+The NFPA Conference and Expo isn't just another trade show. With 8,600 attendees from 88 countries, it's *the* gathering for fire protection professionals, engineers, and safety innovators. For Sparx, this is a chance to demonstrate live what their wireless smart sprinkler system can do: from sensor-based early detection to coordinated electronic activation.
 
 The goal? A fully functional demo that stops traffic (and maybe saves a few hypothetical buildings in the process).
 
