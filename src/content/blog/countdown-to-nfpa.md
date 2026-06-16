@@ -32,13 +32,13 @@ The physical devices are where it all starts. Cassie and Bobby spent significant
 
 The Sparx Hub — the touchscreen brain of the operation — received its biggest polish pass yet:
 
-- **Smoke sensing is now visual on the Hub**. Real-time smoke detection, displayed beautifully
-- **Temperature sensing upgraded for digital sensors**. Goodbye analog, hello precision
-- **Device discovery redesigned**. Clearer Device IDs and better search
-- **Navigation and page state fixes**, because a smooth UI demo is half the battle
+- **Smoke sensing visual on the Hub** with real-time smoke detection
+- **Temperature sensing upgraded** for digital sensors (goodbye analog, hello precision)
+- **Device discovery redesigned** with clearer Device IDs and better search
+- **Navigation and page state fixes** for a smoother UI demo
 - **Color scheme consistency** between the Map and Sensor Data pages
-- **Device selection and zoom behavior** finally behaving like users expect
-- **Offline devices correctly flagged as "trouble"** instead of "supervisory"
+- **Device selection and zoom behavior** behaving like users expect
+- **Offline devices flagged as "trouble"** instead of "supervisory"
 
 ## The BIM Bridge
 
