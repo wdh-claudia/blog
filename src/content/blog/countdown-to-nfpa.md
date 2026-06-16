@@ -24,7 +24,7 @@ The physical devices are where it all starts. Cassie and Bobby spent significant
 - **Reducing power consumption** on Edge Devices. A significant improvement leading up to NFPA that helps devices run efficiently on battery power
 - **Building electronically activated sprinklers** using JOB GmbH's R-Type Thermo Bulb technology
 - **Testing new antennas** for reliable wireless communication
-- **Assembling electronics enclosures** with switches, lightpipes, mounting pads with mounting straps, and battery clips
+- **Assembling** enclosures with switches, lightpipes, mounting pads with mounting straps, and battery clips
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
 - **Testing smoke/temperature auxiliary boards**. After PCB assembly, every board gets run through a structured test plan with custom firmware, breakpoints, and multimeter measurements to verify everything works as anticipated.
 
@@ -54,7 +54,7 @@ It's the bridge from CAD to reality, and it's why the Hub demo at NFPA shows mor
 
 Hardware and software are only half the battle. Getting *to* NFPA requires its own project management:
 
-- Ordered **electronics enclosures**, **Sparx stickers**, and **branded notebooks** from 4imprint
+- Ordered **Sparx stickers** and **branded notebooks** from 4imprint
 - Purchased a **Home Depot table and chairs** for the booth
 - Arranged shipping for **floor tiles, marketing materials, tablecloths, and the Sparx banner**
 - **Created a new marketing poster** and took photos of the latest device builds
