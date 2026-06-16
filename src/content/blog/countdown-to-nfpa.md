@@ -44,7 +44,7 @@ The Sparx Hub — the touchscreen brain of the operation — received its bigges
 
 One of the biggest leaps since last year's NFPA isn't something that'll be demoed front-and-center at the booth, but it's what makes the Hub's visual intelligence possible.
 
-Cassie and Bobby built a **Revit plugin** that lets engineers assign Device IDs directly to sprinklers in their BIM models. Those IDs become a starting point for where devices get installed in the field, with installers able to fine-tune positions right on the Hub when needed. The plugin exports a **.sparx file** (Sparx Project File) that feeds into an **Electron-based Installation Tool**, a simple but critical app that wirelessly uploads that project file to the Hub.
+Cassie and Bobby built a **Revit plugin** that lets the design team assign Device IDs directly to sprinklers in their BIM models. Those IDs become a starting point for where devices get installed in the field, with installers able to fine-tune positions right on the Hub when needed. The plugin exports a **.sparx file** (Sparx Project File) that feeds into an **Electron-based Installation Tool**, a simple but critical app that wirelessly uploads that project file to the Hub.
 
 The result? The Hub doesn't just see a list of sensors. It understands the building **spatially** — overlaying live sensor readings onto the actual floor plan and building model. They also added support for **custom labels** on those plans: fire department connections, sprinkler rooms, riser locations, and whatever else a facility needs marked.
 
