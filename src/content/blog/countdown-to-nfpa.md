@@ -62,7 +62,7 @@ Hardware and software are only half the battle. Getting *to* NFPA requires its o
 
 With the expo just days away, the team is in the final stretch. The devices are built, the Hub is polished, the poster is printed, and the booth gear is en route. Now it's about **comprehensive end-to-end testing** — making sure every sensor reports correctly, every sprinkler responds on cue, and every edge case has been handled.
 
-Because when you're demoing fire safety technology at the NFPA Conference and Expo — with 8,600 attendees from 88 countries, 420+ exhibitors, and 130+ education sessions — "works on my machine" isn't quite good enough.
+Because when you're demoing fire safety technology at the NFPA Conference and Expo, "works on my machine" isn't quite good enough.
 
 ---
 
