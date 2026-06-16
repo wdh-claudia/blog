@@ -2,7 +2,7 @@
 title: "Countdown to NFPA Conference and Expo: What Cassie and Bobby Have Shipped"
 description: "A behind-the-scenes look at everything Cassie and Bobby completed preparing Sparx's smart fire sprinkler technology for the NFPA Conference and Expo starting June 22nd, 2026."
 pubDate: 2026-06-16
-heroImage: "/images/sparx-nfpa-hero.jpg"
+heroImage: "/images/sparx-nfpa-hero-og.jpg"
 ---
 
 The clock is ticking. In **6 days**, Cassie and Bobby from [Sparx](https://sparx-fire.com) will be showcasing their patent-pending smart fire sprinkler technology at the [**NFPA Conference and Expo**](https://www.nfpa.org/Events/Conference), and the energy in the room (and on the Linear board) has been electric.
