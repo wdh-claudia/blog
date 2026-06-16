@@ -22,7 +22,7 @@ The goal? A fully functional demo that stops traffic (and maybe saves a few hypo
 The physical devices are where it all starts. Cassie and Bobby spent significant time getting the hardware battle-ready:
 
 - **Reducing power consumption** on Edge Devices. A significant improvement leading up to NFPA that helps devices run efficiently on battery power
-- **Building three backup electronically activated sprinklers** using JOB GmbH's R-Type Thermo Bulb technology
+- **Building electronically activated sprinklers** using JOB GmbH's R-Type Thermo Bulb technology
 - **Testing new antennas** for reliable wireless communication
 - **Assembling electronics enclosures** with switches, lightpipes, and mounting pads with mounting straps so we can connect these boxes to pipes
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
