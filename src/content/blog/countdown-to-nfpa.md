@@ -21,24 +21,24 @@ The goal? A fully functional demo that stops traffic (and maybe saves a few hypo
 
 The physical devices are where it all starts. Cassie and Bobby spent significant time getting the hardware battle-ready:
 
-- **Reducing power consumption** on Edge Devices for more efficient battery-powered operation
+- **Reducing power consumption** on Edge Devices for improved battery efficiency
 - **Building electronically activated sprinklers** using [JOB GmbH's R-Type Thermo Bulb technology](https://www.youtube.com/watch?v=ekEG_IPaa9Q)
 - **Testing new antennas** for reliable wireless communication
 - **Assembling electronics enclosures** with switches, lightpipes, mounting pads with mounting straps, and battery clips
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
-- **Testing smoke/temperature auxiliary boards** with structured test plans, custom firmware, breakpoints, and multimeter measurements
+- **Testing smoke/temperature auxiliary boards** with custom test firmware and hardware validation
 
 ## The Hub Gets a Major Upgrade
 
 The Sparx Hub — the touchscreen brain of the operation — received its biggest polish pass yet:
 
-- **Smoke sensing visual on the Hub** with real-time smoke detection
-- **Temperature sensing upgraded** for digital sensors (goodbye analog, hello precision)
-- **Device discovery redesigned** with clearer Device IDs and better search
-- **Navigation and page state fixes** for a smoother UI demo
+- **Smoke sensing is now visual on the Hub**. Real-time smoke detection, displayed beautifully
+- **Temperature sensing upgraded for digital sensors**. Goodbye analog, hello precision
+- **Device discovery redesigned**. Clearer Device IDs and better search
+- **Navigation and page state fixes**, because a smooth UI demo is half the battle
 - **Color scheme consistency** between the Map and Sensor Data pages
-- **Device selection and zoom behavior** behaving like users expect
-- **Offline devices flagged as "trouble"** instead of "supervisory"
+- **Device selection and zoom behavior** finally behaving like users expect
+- **Offline devices correctly flagged as "trouble"** instead of "supervisory"
 
 ## The BIM Bridge
 
