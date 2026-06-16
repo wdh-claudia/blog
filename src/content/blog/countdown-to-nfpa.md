@@ -21,12 +21,12 @@ The goal? A fully functional demo that stops traffic (and maybe saves a few hypo
 
 The physical devices are where it all starts. Cassie and Bobby spent significant time getting the hardware battle-ready:
 
-- **Reducing power consumption** on Edge Devices. A significant improvement leading up to NFPA that helps devices run efficiently on battery power
+- **Reducing power consumption** on Edge Devices for more efficient battery-powered operation
 - **Building electronically activated sprinklers** using [JOB GmbH's R-Type Thermo Bulb technology](https://www.youtube.com/watch?v=ekEG_IPaa9Q)
 - **Testing new antennas** for reliable wireless communication
 - **Assembling electronics enclosures** with switches, lightpipes, mounting pads with mounting straps, and battery clips
 - **Soldering components** and building a **4th board** to support additional sensors (the stretch goal they actually hit)
-- **Testing smoke/temperature auxiliary boards**. After PCB assembly, every board gets run through a structured test plan with custom firmware, breakpoints, and multimeter measurements to verify everything works as anticipated.
+- **Testing smoke/temperature auxiliary boards** with structured test plans, custom firmware, breakpoints, and multimeter measurements
 
 ## The Hub Gets a Major Upgrade
 
